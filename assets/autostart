@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Configuration Papier Peint
+Exec=/usr/local/bin/set_wallpaper.sh
+Icon=desktop
+Terminal=false
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
